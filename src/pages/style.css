@@ -1,0 +1,13 @@
+.call-to-action {
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    font-size: 1.2rem;
+    transition: all;
+    transition-duration: .2s;
+}
+
+.call-to-action:hover {
+    transform: translateY(-5px);
+}

@@ -1,0 +1,14 @@
+.hero-container {
+    text-align: center;
+    background-image: url('../../assets/blackboard.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 5rem;
+    font-size: 1.2rem;
+}
+
+.hero-container h1 {
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
